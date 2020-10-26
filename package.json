@@ -12,5 +12,8 @@
     "NODE"
   ],
   "author": "Lucas",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
