@@ -1,0 +1,42 @@
+{
+  "produtos": [
+    {
+      "idproduto": 1,
+      "nome": "jaqueta",
+      "descricao": "jaqueta de couro marrom ",
+      "imagem": "https://photos.enjoei.com.br/public/1200xN/czM6Ly9waG90b3MuZW5qb2VpLmNvbS5ici9wcm9kdWN0cy83NTk4ODc5L2FjMGEyMzAwY2RiYzNjNDJhYzVjNzE5NDQ2MGFlYzZkLmpwZw"
+    },
+    {
+      "idproduto": 4,
+      "nome": "jaqueta",
+      "descricao": "jaqueta escura",
+      "preco": "R$ 200",
+      "imagem": "https://www.riachuelo.com.br/jaqueta-atanada-ziper-13342444_sku/?hexa_color=Preto&tamanho=XG&gclid=EAIaIQobChMI5oDJ9-jZ7AIViw6RCh1Mfw1UEAQYASABEgIA8_D_BwE"
+    },
+    {
+      "idproduto": 5,
+      "nome": "camisa ",
+      "descricao": "camisa xadrex",
+      "preco": "R$ 200",
+      "imagem": "https://www.kanui.com.br/Camisa-DC-Shoes-Reta-Marsha-Vermelha-5267038.html"
+    },
+    {
+      "nome": "raçao",
+      "descricao": "ração para caes grande",
+      "preco": "R$ 200",
+      "imagem": "https://araujo.vteximg.com.br/arquivos/ids/3901308-1000-1000/7896029068328_2.jpg?v=636868027866000000"
+    },
+    {
+      "nome": "jaqueta",
+      "descricao": "jaqueta marrom",
+      "preco": "R$ 200",
+      "imagem": "https://www.petlove.com.br/images/products/225366/product/Ra%C3%A7%C3%A3o_Seca_Supra_Atacama_C%C3%A3es_Adultos_Todas_as_Ra%C3%A7as_2159157.jpg?1594813673"
+    },
+    {
+      "nome": "raçao",
+      "descricao": "raçao para caes",
+      "preco": "R$ 200",
+      "imagem": "https://www.petlove.com.br/images/products/225366/product/Ra%C3%A7%C3%A3o_Seca_Supra_Atacama_C%C3%A3es_Adultos_Todas_as_Ra%C3%A7as_2159157.jpg?1594813673"
+    }
+  ]
+}
